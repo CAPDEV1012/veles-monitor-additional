@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" fill="none" role="img" aria-label="Veles Monitor">
+  <g>
+    <rect x="0" y="6" width="52" height="52" rx="8" fill="#0A1628" stroke="#38BDF8" stroke-width="1.5"/>
+    <g transform="translate(2, 8) scale(0.1875)">
+      <circle cx="128" cy="128" r="110" stroke="#38BDF8" stroke-width="3.5" fill="none"/>
+      <circle cx="128" cy="128" r="86" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="6 8" opacity="0.5" fill="none"/>
+      <g stroke="#38BDF8" stroke-width="3" stroke-linecap="round">
+        <line x1="128" y1="10" x2="128" y2="26"/>
+        <line x1="128" y1="230" x2="128" y2="246"/>
+        <line x1="10" y1="128" x2="26" y2="128"/>
+        <line x1="230" y1="128" x2="246" y2="128"/>
+      </g>
+      <g fill="#38BDF8">
+        <path d="M 86 86 L 76 54 L 108 78 Z"/>
+        <path d="M 170 86 L 180 54 L 148 78 Z"/>
+        <path d="M 128 64 L 88 82 L 76 124 L 92 168 L 128 192 L 164 168 L 180 124 L 168 82 Z"/>
+      </g>
+      <g fill="#0A1628">
+        <path d="M 100 116 L 122 110 L 118 128 L 102 124 Z"/>
+        <path d="M 134 110 L 156 116 L 154 124 L 138 128 Z"/>
+        <path d="M 116 148 L 140 148 L 134 168 L 122 168 Z"/>
+      </g>
+    </g>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" fill="#E8EEF7">
+    <text x="68" y="34" font-size="22" font-weight="700" letter-spacing="0.5">VELES</text>
+    <text x="68" y="52" font-size="13" font-weight="500" letter-spacing="3" fill="#9AB0C8">MONITOR</text>
+  </g>
+</svg>
